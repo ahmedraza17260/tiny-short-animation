@@ -1,0 +1,27 @@
+.container {
+    width: 100%;
+    height: auto;
+    /* background: linear-gradient(to right, #193e98, #0098c6); */
+    text-align: center;
+    /* padding-bottom: 6px !important; */
+    color: black !important;
+    /* opacity: ; */
+    font-weight: bolder;
+    font-family: 'Mali', cursive !important;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+    padding: 4px !important;
+    font-size: x-large !important;
+    box-shadow: black 5px 5px 5px 5px !important;
+    padding: 1px !important;
+    background: radial-gradient(circle,
+            rgba(238, 174, 202, 1) 17%,
+            rgba(148, 187, 233, 1) 100%);
+    margin-top: 30px !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+
+}
+
+a {
+    text-decoration: none;
+}

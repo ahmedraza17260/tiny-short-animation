@@ -1,0 +1,16 @@
+body {
+  background: radial-gradient(circle,
+      rgba(238, 174, 202, 1) 0%,
+      rgba(148, 187, 233, 1) 100%) !important;
+  /* background: radial-gradient(circle, #0072d4 0%, rgb(16, 29, 143) 70%), */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mali', cursive;
+}
